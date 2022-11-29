@@ -1,0 +1,15 @@
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\Practica8\Practica8\bin\Debug\net6.0\Practica8.exe
+C:\Users\ClassTime\source\repos\Practica8\Practica8\bin\Debug\net6.0\Practica8.deps.json
+C:\Users\ClassTime\source\repos\Practica8\Practica8\bin\Debug\net6.0\Practica8.runtimeconfig.json
+C:\Users\ClassTime\source\repos\Practica8\Practica8\bin\Debug\net6.0\Practica8.dll
+C:\Users\ClassTime\source\repos\Practica8\Practica8\bin\Debug\net6.0\Practica8.pdb
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.dll
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\refint\Practica8.dll
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.pdb
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\Practica8.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\Practica8\Practica8\obj\Debug\net6.0\ref\Practica8.dll
