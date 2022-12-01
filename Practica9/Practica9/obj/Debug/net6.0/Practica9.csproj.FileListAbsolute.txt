@@ -1,0 +1,15 @@
+C:\Users\ClassTime\source\repos\Practica9\Practica9\bin\Debug\net6.0\Practica9.exe
+C:\Users\ClassTime\source\repos\Practica9\Practica9\bin\Debug\net6.0\Practica9.deps.json
+C:\Users\ClassTime\source\repos\Practica9\Practica9\bin\Debug\net6.0\Practica9.runtimeconfig.json
+C:\Users\ClassTime\source\repos\Practica9\Practica9\bin\Debug\net6.0\Practica9.dll
+C:\Users\ClassTime\source\repos\Practica9\Practica9\bin\Debug\net6.0\Practica9.pdb
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.dll
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\refint\Practica9.dll
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.pdb
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\Practica9.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\Practica9\Practica9\obj\Debug\net6.0\ref\Practica9.dll
